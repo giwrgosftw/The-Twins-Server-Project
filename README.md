@@ -8,7 +8,7 @@ A pdf file with usage samples and a pdf file with the server protocol are provid
 # Connect to the server
 We use Putty to connect to this server which is a graphical interface. Steps: 
 1. Select the Connection type
-2. Complete the Host and Port fields as required (see video link)
+2. Complete the Host and Port fields as required (see the following video link)
 3. Click Open.
 
 Link to download: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
