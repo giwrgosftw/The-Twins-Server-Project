@@ -7,9 +7,11 @@ A pdf file with usage samples and a pdf file with the server protocol are provid
 
 # Connect to the server
 We use Putty to connect to this server which is a graphical interface. Steps: 
-1. Select the Connection type
-2. Complete the Host and Port fields as required (see the following video link)
-3. Click Open.
+1. Run Server.java from Twins\src\twins
+2. Download-install-open Putty
+3. Select the Connection type
+4. Complete the Host and Port fields as required (you can find them from the Netbeans console)
+5. Click Open.
 
 Link to download: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
