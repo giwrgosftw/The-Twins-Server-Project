@@ -3,7 +3,7 @@ This is a NetBeans project written in Java programming language. The Twins proto
 
 The server is single-threaded, it will not be possible for more than one client to connect at a time. In this case, the refresh option is not much use to the client (since the database cannot be updated by any other client until the currently connected client quits) but refresh is implemented.
 
-Also, it can be converted to multi-threaded server (check how, in the comments at line 151) as several connections can be active at the same time. In that case, the user cannot login if his name already exist in the database.
+Also, it can be converted to multi-threaded server (check how, in the comments at line 151) as several connections can be active at the same time. In that case, the user cannot be registeted if his name already exist in the database. This happens for security reasons, e.g. no-one should be able to add or delete a name while a twins list is being output to another, differently named client.
 
 A pdf file with usage samples and a pdf file with the server protocol are provided.
 
