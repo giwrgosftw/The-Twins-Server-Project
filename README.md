@@ -24,4 +24,4 @@ We use Putty to connect to this server which is a graphical interface. Steps:
 Link to download: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 # Video link
-Under construction
+https://youtu.be/Ix96QMiGZB0
