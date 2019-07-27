@@ -7,7 +7,7 @@ Also, it can be converted to multi-threaded server (check how, in the comments a
 
 A pdf file with usage samples and a pdf file with the server protocol are provided.
 
-# Error messages
+# Error messages protocol
 1. Invalid name:	Error 1 [if server was expecting a name]  
 2. Invalid date:	Error 2 [if server was expecting a date]  
 3. Name in use:	  Error 3 [only possible for multi-threaded servers]  
